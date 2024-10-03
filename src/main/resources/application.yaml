@@ -1,0 +1,4 @@
+database:
+  url: neo4j://localhost
+  login: neo4j
+  password:
